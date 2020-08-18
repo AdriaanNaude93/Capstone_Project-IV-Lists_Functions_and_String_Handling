@@ -1,0 +1,6 @@
+Task amount = 4
+Completed tasks = 2
+Incomplete tasks = 2
+50.0% of tasks are incomplete.
+Overdue tasks = 0
+0.0% of tasks are overdue.
