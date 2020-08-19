@@ -17,7 +17,7 @@ Depending on the choice of the user, they can either add tasks, which will promp
 
 If the user chooses view all tasks, or view my tasks, they will either be given all the information regarding all the tasks in the text file, or only the ones that have their username in it.
 
-If the user logs in with the admin information, they will have more options to choose from. They will be able to do the following:
+**If the user logs in with the admin information, they will have more options to choose from. They will be able to do the following:**
 1. Register a user
 2. Add a task
 3. View all tasks
@@ -29,7 +29,7 @@ The admin user is able to register more users which will be added to the relevan
 
 As stated previously, there are text files for users and tasks in which information is stored. The statistics is stored in two other text files called task_overview and user_overview. As the names suggest, each text file stores information regarding tasks and users.
 
-The task_overview file stores and will display, if asked:
+**The task_overview file stores and will display, if asked:**
 1. Task amount
 2. Completed tasks
 3. Incomplete tasks
@@ -37,7 +37,7 @@ The task_overview file stores and will display, if asked:
 5. Overdue tasks
 6. Percentage of tasks overdue
 
-The user_overview file stores and will display, if asked:
+**The user_overview file stores and will display, if asked:**
 1. Task amount 
 2. User amount
 
